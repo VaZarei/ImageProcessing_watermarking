@@ -141,10 +141,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Vahid Zarei**
 
-* GitHub: [@VaZarei](https://www.google.com/search?q=https://github.com/VaZarei)
 
-```
-
-<FollowUp label="Want me to draft a requirements.txt or setup script for this repo?" query="Generate a template requirements.txt and setup.py file suitable for this Python image watermarking repository."/>
-
-```
