@@ -145,8 +145,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ```
 
----
-
 <FollowUp label="Want me to draft a requirements.txt or setup script for this repo?" query="Generate a template requirements.txt and setup.py file suitable for this Python image watermarking repository."/>
 
 ```
