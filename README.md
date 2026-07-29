@@ -1,10 +1,3 @@
-Here is a comprehensive, professionally structured `README.md` file tailored specifically for your GitHub repository (**ImageProcessing_watermarking**).
-
-It highlights the practical necessity of image watermarking, emphasizes your project's features and core advantages, and provides clean installation/usage guides.
-
----
-
-### Copy and Paste the Content Below into your `README.md` File
 
 ```markdown
 # 📷 Image Processing & Digital Watermarking Engine
